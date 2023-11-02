@@ -5,8 +5,6 @@ In this part of the project we use ipcores to implement an ALU for Complex Matri
 
 ## Multiplication
 
-\begin{align*}
 $A= a + bi$
 $B = c + di$
 $C = (ac-bd) + (ad+bc)i$
-\end{align*}
