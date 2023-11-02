@@ -9,4 +9,4 @@ $A= a + bi$<br>
 $B = c + di$<br>
 $C = (ac-bd) + (ad+bc)i$<br>
 
-![Alt text](../VHDL/ComplexMatrixMultiplication/finalproject/finalproject/multip.png)
+![Alt text](multip.png)
