@@ -10,3 +10,11 @@ $B = c + di$<br>
 $C = (ac-bd) + (ad+bc)i$<br>
 
 ![Alt text](multip.png)
+
+## Addition
+
+![Alt text](addtip.png)
+
+## Subtraction
+
+![Alt text](subip.png)
