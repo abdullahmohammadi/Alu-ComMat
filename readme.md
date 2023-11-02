@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Complex Matrix ALU
-## without ipcore
 
-## with ipcore
+In this project we implement an ALU with and without ipcores to compare Area, Delay, and Power. We use VHDL and Xilinx ISE for implementation.
+
+
