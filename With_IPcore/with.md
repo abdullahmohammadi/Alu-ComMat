@@ -5,8 +5,8 @@ In this part of the project we use ipcores to implement an ALU for Complex Matri
 
 ## Multiplication
 
-$A= a + bi$\\
-$B = c + di$\\
-$C = (ac-bd) + (ad+bc)i$
+$A= a + bi$<br>
+$B = c + di$<br>
+$C = (ac-bd) + (ad+bc)i$<br>
 
-![Alt text](..\VHDL\ComplexMatrixMultiplication\finalproject\finalproject\multip.png)
+![Alt text](../VHDL/ComplexMatrixMultiplication/finalproject/finalproject/multip.png)
